@@ -13,7 +13,35 @@
                 "pizza",
                 "noodles"
               ]
+            },
+            {
+              "name": "size",
+              "component": "select",
+              "message": "What size do you want?"
+              "choices": [
+                "small",
+                "medium",
+                "large"
+              ]
+            },
+            {
+              "name": "piz",
+              "component": "select",
+              "message": "What sorta pizza you want?"
+              "choices": [
+                "Salami",
+                "Tonno (tuna and onions)",
+                "Margherita",
+                "Diavolo/Diavola (hot salami and hot peppers)",
+                "Ham",
+                "Speciale (salami, ham, mushrooms)",
+                "Hawaii (ham, pineapple)",
+                "Gyros/kebap/sucuk/hot dog",
+                "Quattro formaggi",
+                "Funghi (mushrooms)",
+              ]
             }
+            
           ]
         }
       }

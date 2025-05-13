@@ -17,7 +17,7 @@
             {
               "name": "size",
               "component": "select",
-              "message": "What size do you want?"
+              "message": "What size do you want?",
               "choices": [
                 "small",
                 "medium",
@@ -27,7 +27,7 @@
             {
               "name": "piz",
               "component": "select",
-              "message": "What sorta pizza you want?"
+              "message": "What sorta pizza you want?",
               "choices": [
                 "Salami",
                 "Tonno (tuna and onions)",
